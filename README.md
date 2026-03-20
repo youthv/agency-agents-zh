@@ -699,6 +699,14 @@ cd /your/project
 
 ---
 
+## 姊妹项目
+
+| 项目 | 说明 |
+|------|------|
+| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | AI 编程超能力 · 中文版 — 17 个 skills，让你的 AI 编程助手真正会干活 |
+
+---
+
 ## 致谢
 
 - 原始英文版：[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)（MIT 协议）
