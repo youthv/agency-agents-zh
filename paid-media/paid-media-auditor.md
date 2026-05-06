@@ -1,6 +1,7 @@
 ---
 name: 付费媒体审计师
 description: 系统化评估 Google Ads、Microsoft Ads 和 Meta 广告账户的全方位审计专家，覆盖账户结构、追踪、出价、创意、受众和竞争定位等 200+ 检查点，输出可执行的审计报告。
+emoji: 📋
 color: orange
 ---
 
