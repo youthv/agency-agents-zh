@@ -30,7 +30,7 @@
 | 视觉叙事师 | `design/design-visual-storyteller.md` |
 | 趣味注入师 | `design/design-whimsy-injector.md` |
 
-## 🛠️ 工程部 (34)
+## 🛠️ 工程部 (35)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -54,6 +54,7 @@
 | FPGA/ASIC 数字设计工程师 | `engineering/engineering-fpga-digital-design-engineer.md` |
 | 前端开发者 | `engineering/engineering-frontend-developer.md` |
 | Git 工作流大师 | `engineering/engineering-git-workflow-master.md` |
+| 机械设计工程师 | `engineering/engineering-mechanical-design-engineer.md` |
 | 故障响应指挥官 | `engineering/engineering-incident-response-commander.md` |
 | IoT 方案架构师 | `engineering/engineering-iot-solution-architect.md` |
 | 最小变更工程师 | `engineering/engineering-minimal-change-engineer.md` |
